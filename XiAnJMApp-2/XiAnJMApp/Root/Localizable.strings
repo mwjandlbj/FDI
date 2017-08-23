@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  XiAnJMApp
+
+  Created by Kai Wang on 2017/5/19.
+  Copyright © 2017年 Kai Wang. All rights reserved.
+*/
+TabBarNewMainTitle = "首页";
+TabBarNewClassifyTitle = "分类";
+TabBarNewShoppingCarTitle = "购物车";
+TabBarNewMyTitle = "我的";
